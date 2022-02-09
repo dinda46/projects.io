@@ -1,1 +1,3 @@
-web project made by Dinda Meutiah
+a music web-page project made by Dinda Meutiah
+
+inspired by Spotify
