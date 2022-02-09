@@ -1,0 +1,27 @@
+/* FOR TABLET */
+@media all and (max-width: 1000px) {
+    .header-left-nav {
+        display: none;
+    }
+    .hamburger {
+        float: left;
+        line-height: 45px;
+        width: 40px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .hamburger a {
+        color: #8947dff3;
+        line-height: 45px;
+        padding: 0 25px;
+        float: left;
+        transition: all 0.2s;
+        text-decoration: none;
+    }
+    .hamburger a:hover {
+        background-color: #8947dff3;
+        color: black;
+    }
+}
